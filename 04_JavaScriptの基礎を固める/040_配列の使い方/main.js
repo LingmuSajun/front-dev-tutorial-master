@@ -1,6 +1,8 @@
-const arry = [1,2,3,4,5,6,'moji',false];
+const array = [1, 2, 3, 4, 5, 6];
 
-arry.unshift('new item');
-const val = arry.shift();
+array.unshift('new item');
+array.push('new item');
+array.shift();
+array.pop();
 
-console.log(arry);
+console.log(array);
