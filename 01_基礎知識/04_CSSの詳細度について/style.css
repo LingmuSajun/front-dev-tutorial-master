@@ -1,24 +1,24 @@
 .parent {
-	color: blue;
-	font-weight: 600;
+  color: blue;
+  font-weight: 600;
 }
 
 span {
-	color: purple;
+  color: purple;
 }
 
 .cls {
-	color: orange;
+  color: orange;
 }
 
 #first {
-	color: magenta;
+  color: magenta;
 }
 
 .parent span {
-	color: red;
+  color: red;
 }
 
 .parent span {
-	color: black;
+  color: black;
 }

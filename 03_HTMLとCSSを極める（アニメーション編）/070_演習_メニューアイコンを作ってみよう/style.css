@@ -1,5 +1,5 @@
 .mobile-menu-icon {
-  background-color: transparent;
+  background-color: unset;
   border: none;
   outline: none !important;
   cursor: pointer;
@@ -7,7 +7,7 @@
 
 .mobile-menu-icon > span {
   background-color: black;
-  width: 32px;
+  width: 35px;
   height: 2px;
   display: block;
   margin-bottom: 9px;
@@ -37,8 +37,8 @@
 }
 
 .menu-open .mobile-menu-icon > span:nth-child(2) {
-  -webkit-transition-delay: 0ms;
-          transition-delay: 0ms;
+  -webkit-transition-delay: 0s;
+          transition-delay: 0s;
   -webkit-transform: translateX(-18px) scaleX(0);
           transform: translateX(-18px) scaleX(0);
 }

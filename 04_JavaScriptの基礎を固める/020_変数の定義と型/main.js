@@ -3,7 +3,7 @@ let name = 'Tom';
 name = 'Tim';
 console.log('hello ' + name);
 
-// Number, String, Boolean, Undefined, Null, Symbol
+// データ型：Number, String, Boolean, Undefined, Null, Symbol
 
 // 動的型付け言語
 let variable = 'str';
@@ -14,4 +14,4 @@ variable = undefined;
 console.log(typeof variable);
 
 // 静的型付け言語
-int num = 12;
+// int num = 12;
